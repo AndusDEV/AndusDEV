@@ -1,9 +1,33 @@
-### Hi there 👋
-I'm AndusDEV. If you want you can check out if something here will interest you. I have some little programs that can help you.
-Here is my [Website](https://andusdev.github.io)
 
-Here is [Blackstone Team](https://github.com/Blackstone-Team)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndusDEV&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<h1 align='center'>
+  Hi there 👋 I'm Andus 👨‍💻
+</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndusDEV&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<p align='center'>
+  A Java developer from Poland.
+</p>
+
+
+<p align='center'>
+  💻 My workspaces<br/><br/>
+  🖥️ Computer<br>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intel-core%20i7%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/><br>
+  💻 Laptop<br>
+  <img src="https://img.shields.io/badge/Ubuntu Budgie%2020.04-%230071C5.svg?color=b19cd9&style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
+</p>
+<br>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andusdev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndusDEV&layout=compact&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
