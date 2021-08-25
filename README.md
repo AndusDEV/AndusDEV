@@ -10,6 +10,14 @@
 
 
 <p align='center'>
+  Things I use<br>
+  <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&color=ff9d5c&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Github-F05032?style=flat-square&color=black&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</p>
+
+<p align='center'>
   💻 My workspaces<br/><br/>
   🖥️ Computer<br>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
