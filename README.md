@@ -11,10 +11,16 @@
 
 <p align='center'>
   Things I use<br>
-  <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&color=ff9d5c&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Github-F05032?style=flat-square&color=black&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&color=00b300&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/-Github-F05032?style=flat-square&color=black&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
 <p align='center'>
