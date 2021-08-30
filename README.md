@@ -38,8 +38,8 @@
 
 <details>
   <summary>📫 How to reach me</summary>
-  <li><a href="https://github.com/andusdev">:octocat: Github@AndusDEV</a></li>
-  <li><a href="https://twitter.com/mranduss">:bird: Twitter@MrAnduss</a>
+  <li><a href="https://github.com/andusdev" target="_blank" rel="noopener noreferrer">:octocat: Github@AndusDEV</a></li>
+  <li><a href="https://twitter.com/mranduss" target="_blank" rel="noopener noreferrer">:bird: Twitter@MrAnduss</a>
 </details>
   
 <br/>
@@ -51,5 +51,5 @@
 </p>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/' target="_blank" rel="noopener noreferrer">Nominate me to Github Stars ⭐</a>
 </p>
