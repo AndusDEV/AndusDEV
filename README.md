@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/intel-core%20i7%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/><br/>
   💻 Laptop<br/>
-  <img src="https://img.shields.io/badge/CloudReady-%230078D6.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/CloudReady-%230078D6.svg?&style=for-the-badge&logo=google-cloud&logoColor=white&color=03adfc"/><br/>
   <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
 </p>
