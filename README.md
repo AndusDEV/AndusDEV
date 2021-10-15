@@ -27,12 +27,11 @@
   💻 My workspaces<br/><br/>
   🖥️ Computer<br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/manjaro KDE%2021.1.2-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Ubuntu Web%2020.04.2-35BF5C?style=for-the-badge&logo=ubuntu&logoColor=white&color=b26cd1"/><br/>
   <img src="https://img.shields.io/badge/intel-core%20i7%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/><br/>
   💻 Laptop<br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu Budgie%2020.04-%230071C5.svg?color=b19cd9&style=for-the-badge&logo=ubuntu&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/CloudReady-%230078D6.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
 </p>
