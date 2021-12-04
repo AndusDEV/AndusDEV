@@ -25,15 +25,19 @@
 
 <p align='center'>
   💻 My workspaces<br/><br/>
-  🖥️ Computer<br/>
+  🖥️ Computer (64-bit)<br/>
   <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu Web%2020.04.2-35BF5C?style=for-the-badge&logo=ubuntu&logoColor=white&color=b26cd1"/><br/>
   <img src="https://img.shields.io/badge/intel-core%20i7%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/><br/>
-  💻 Laptop<br/>
+  💻 Laptop (64-bit)<br/>
   <img src="https://img.shields.io/badge/CloudReady-%230078D6.svg?&style=for-the-badge&logo=google-cloud&logoColor=white&color=03adfc"/><br/>
   <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/><br/>
+  💽 Server (32-bit)<br/>
+  <img src="https://img.shields.io/badge/Ubuntu Server%2016.04.6-35BF5C?style=for-the-badge&logo=ubuntu&logoColor=white&color=bd391e"/><br/>
+  <img src="https://img.shields.io/badge/intel-pentium%20M%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAM-2GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/><br/>
 </p>
 
 <details>
