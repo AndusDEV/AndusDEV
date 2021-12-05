@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Ubuntu Server%2018.04.6-35BF5C?style=for-the-badge&logo=ubuntu&logoColor=white&color=bd391e"/><br/>
   <img src="https://img.shields.io/badge/intel-pentium%20M%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-2GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/PHP-7.1-%230071C5.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-7.2-%230071C5.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache-2.4.29-%230071C5.svg?&style=for-the-badge&logo=apache&logoColor=white"/><br/>
 </p>
 
