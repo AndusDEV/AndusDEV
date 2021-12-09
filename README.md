@@ -45,7 +45,9 @@
 <details>
   <summary>📫 How to reach me</summary>
   <li><a href="https://github.com/andusdev" target="_blank" rel="noopener noreferrer">:octocat: Github@AndusDEV</a></li>
-  <li><a href="https://twitter.com/mranduss" target="_blank" rel="noopener noreferrer">:bird: Twitter@MrAnduss</a>
+  <li><a href="https://twitter.com/Anduseee" target="_blank" rel="noopener noreferrer">:bird: Twitter@Anduseee</a></li>
+  <li><a href="https://t.me/Anduseee" target="_blank" rel="noopener noreferrer">:telephone_receiver: Telegram@Anduseee</a></li>
+  <li><a href="https://discordapp.com/users/523854954700734464" target="_blank" rel="noopener noreferrer">:id: Discord@MrAnduss</a></li>
 </details>
   
 <br/>
