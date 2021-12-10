@@ -8,7 +8,6 @@
   A Java developer from Poland.
 </p>
 
-
 <p align='center'>
   Things I use<br>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
@@ -56,6 +55,16 @@
 </p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndusDEV&layout=compact&theme=dark" width="350"></a>
+</p>
+
+<h3 align="center">
+  My Favourite Things:<br>
+</h3>
+<p align="center">
+  Minecraft <img src="https://static.wikia.nocookie.net/minecraft/images/f/fe/GrassNew.png/revision/latest/scale-to-width-down/40" width="20" height="20"/><br>
+  Ubuntu <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="bootstrap" width="20" height="20"/><br>
+  Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bootstrap" width="20" height="20"/><br>
+  My Dog :dog2:
 </p>
 
 <p align='center'>
