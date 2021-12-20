@@ -25,8 +25,7 @@
 <p align='center'>
   💻 My workspaces<br/><br/>
   🖥️ Computer (64-bit)<br/>
-  <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Manjaro%2021.1.6-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white&color=green"/><br/>
+  <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/intel-core%20i7%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/><br/>
   💻 Laptop (64-bit)<br/>
