@@ -5,7 +5,8 @@
 </h1>
 
 <p align='center'>
-  A Java developer from Poland.
+  A Java developer from Poland.<br>
+  https://andus.dev
 </p>
 
 <p align='center'>
