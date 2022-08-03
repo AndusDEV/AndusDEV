@@ -20,25 +20,24 @@
   <img src="https://img.shields.io/badge/-CSS3-E34F26?style=flat&logo=css3&color=blue&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/-Github-F05032?style=flat&color=black&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=flat&logo=godot-engine"/>
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/>
 </p>
 
 <p align='center'>
   💻 My workspaces<br/><br/>
   🖥️ Computer (64-bit)<br/>
-  <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Garuda%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br/>
   <img src="https://img.shields.io/badge/intel-core%20i5%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/><br/>
   💻 Laptop (64-bit)<br/>
   <img src="https://img.shields.io/badge/CloudReady-%230078D6.svg?&style=for-the-badge&logo=google-cloud&logoColor=white&color=03adfc"/><br/>
   <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/><br/>
-  💽 Server (32-bit)<br/>
-  <img src="https://img.shields.io/badge/Ubuntu Server%2018.04.6-35BF5C?style=for-the-badge&logo=ubuntu&logoColor=white&color=bd391e"/><br/>
-  <img src="https://img.shields.io/badge/intel-pentium%20M%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-2GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/PHP-7.2-%230071C5.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-2.4.29-%230071C5.svg?&style=for-the-badge&logo=apache&logoColor=white"/><br/>
+  🎮 Game Consoles</br>
+  <img src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white"/>
 </p>
 
 <details>
