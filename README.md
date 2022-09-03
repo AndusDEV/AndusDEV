@@ -49,10 +49,10 @@
   
 <br/>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andusdev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andusq&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndusDEV&layout=compact&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andusq&layout=compact&theme=dark" width="350"></a>
 </p>
 
 <h3 align="center">
