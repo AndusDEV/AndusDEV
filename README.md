@@ -41,7 +41,7 @@
 
 <p  align='center'>
   Wanna talk?</br>
-  <a href="https://github.com/andusq" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a></br>
+  <a href="https://github.com/andusdev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a></br>
   <a href="https://twitter.com/Anduseee" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a></br>
   <a href="https://t.me/Anduseee" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a></br>
   <a href="mailto:support@andus.dev" target="_blank" tel="noopener noreferrer"><img src="https://img.shields.io/badge/Support Mail-D14836?style=flat-square&logo=mailgun&logoColor=white"/></a>
@@ -49,10 +49,10 @@
   
 <br/>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andusq&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andusdev&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andusq&layout=compact&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andusdev&layout=compact&theme=dark" width="350"></a>
 </p>
 
 <h3 align="center">
