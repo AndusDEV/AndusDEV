@@ -12,9 +12,8 @@
 <p align='center'>
   Things I use<br>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&color=00b300&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&color=blue&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
@@ -22,6 +21,8 @@
   <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=flat-square&logo=godot-engine"/>
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
 </p>
+
+
 
 <p align='center'>
   💻 My workspaces<br/><br/>
@@ -34,9 +35,11 @@
   <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=flat-square&logoColor=white"/><br/>
   🎮 Game Consoles</br>
-  <img src="https://img.shields.io/badge/3DS-D12228?style=flat-square&logo=nintendo-3ds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nintendo%20Wii-8B8B8B?style=flat-square&logo=wii&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nintendo%203DS-D12228?style=flat-square&logo=nintendo-3ds&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/Xbox%20360-107C10?style=flat-square&logo=xbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Playstation%204-003791?style=flat-square&logo=playstation-4&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wii-8B8B8B?style=flat-square&logo=wii&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playstation%20Vita-003791?style=flat-square&logo=playstation-vita&logoColor=white"/>
 </p>
 
 <p  align='center'>
