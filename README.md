@@ -35,9 +35,8 @@
   <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=flat-square&logoColor=white"/><br/>
   🎮 Game Consoles</br>
-  <img src="https://img.shields.io/badge/Nintendo%20Wii-8B8B8B?style=flat-square&logo=wii&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nintendo%203DS-D12228?style=flat-square&logo=nintendo-3ds&logoColor=white"/></br>
-  <img src="https://img.shields.io/badge/Xbox%20360-107C10?style=flat-square&logo=xbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nintendo%203DS-D12228?style=flat-square&logo=nintendo-3ds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xbox%20360-107C10?style=flat-square&logo=xbox&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/Playstation%204-003791?style=flat-square&logo=playstation-4&logoColor=white"/>
   <img src="https://img.shields.io/badge/Playstation%20Vita-003791?style=flat-square&logo=playstation-vita&logoColor=white"/>
 </p>
