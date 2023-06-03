@@ -30,10 +30,6 @@
   <img src="https://img.shields.io/badge/Garuda%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/><br/>
   <img src="https://img.shields.io/badge/intel-core%20i5%209th-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat-square&logoColor=white"/><br/>
-  💻 Laptop (64-bit)<br/>
-  <img src="https://img.shields.io/badge/CloudReady-%230078D6.svg?&style=flat-square&logo=google-cloud&logoColor=white&color=03adfc"/><br/>
-  <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=flat-square&logoColor=white"/><br/>
   🎮 Game Consoles</br>
   <img src="https://img.shields.io/badge/Nintendo%203DS-D12228?style=flat-square&logo=nintendo-3ds&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xbox%20360-107C10?style=flat-square&logo=xbox&logoColor=white"/></br>
