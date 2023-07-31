@@ -33,7 +33,7 @@
   🎮 Game Consoles</br>
   <img src="https://img.shields.io/badge/Nintendo%203DS-D12228?style=flat-square&logo=nintendo-3ds&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xbox%20360-107C10?style=flat-square&logo=xbox&logoColor=white"/></br>
-  <img src="https://img.shields.io/badge/Playstation%204-003791?style=flat-square&logo=playstation-4&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nintendo%20Switch-D12228?style=flat-square&logo=nintendo-switch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Playstation%20Vita-003791?style=flat-square&logo=playstation-vita&logoColor=white"/>
 </p>
 
@@ -42,7 +42,7 @@
   <a href="https://github.com/andusdev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a></br>
   <a href="https://twitter.com/Anduseee" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a></br>
   <a href="https://t.me/Anduseee" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a></br>
-  <a href="mailto:support@andus.dev" target="_blank" tel="noopener noreferrer"><img src="https://img.shields.io/badge/Support Mail-D14836?style=flat-square&logo=mailgun&logoColor=white"/></a>
+  <a href="mailto:me@andus.dev" target="_blank" tel="noopener noreferrer"><img src="https://img.shields.io/badge/Support Mail-D14836?style=flat-square&logo=mailgun&logoColor=white"/></a>
 </p>
   
 <br/>
