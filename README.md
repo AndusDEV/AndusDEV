@@ -12,7 +12,8 @@
 <p align='center'>
   Things I use<br>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=pycharm&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&color=blue&logoColor=white"/><br>
