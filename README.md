@@ -53,6 +53,9 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andusdev&layout=compact&theme=dark" width="350"></a>
 </p>
+<p align='center'>
+  <a href="#"><img src="https://github-contributor-stats.vercel.app/api?username=AndusDEV&limit=5&theme=dark" width="350"></a>
+</p>
 
 <h3 align="center">
   My Favourite Things:<br>
