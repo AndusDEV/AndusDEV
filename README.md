@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat-square&logoColor=white"/><br/>
   🎮 Game Consoles</br>
   <img src="https://img.shields.io/badge/Nintendo%203DS-D12228?style=flat-square&logo=nintendo-3ds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nintendo%20Wii-FFFFFF?style=flat-square&logo=wii&logoColor=black"/>
   <img src="https://img.shields.io/badge/Xbox%20360-107C10?style=flat-square&logo=xbox&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/Nintendo%20Switch-D12228?style=flat-square&logo=nintendo-switch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Playstation%20Vita-003791?style=flat-square&logo=playstation-vita&logoColor=white"/>
